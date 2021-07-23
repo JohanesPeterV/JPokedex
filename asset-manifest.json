@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/JPokedex/static/css/main.fbe7a14a.chunk.css",
+    "main.js": "/JPokedex/static/js/main.064b832a.chunk.js",
+    "main.js.map": "/JPokedex/static/js/main.064b832a.chunk.js.map",
+    "runtime-main.js": "/JPokedex/static/js/runtime-main.95b475c6.js",
+    "runtime-main.js.map": "/JPokedex/static/js/runtime-main.95b475c6.js.map",
+    "static/css/2.eee1a7f4.chunk.css": "/JPokedex/static/css/2.eee1a7f4.chunk.css",
+    "static/js/2.4560a1af.chunk.js": "/JPokedex/static/js/2.4560a1af.chunk.js",
+    "static/js/2.4560a1af.chunk.js.map": "/JPokedex/static/js/2.4560a1af.chunk.js.map",
+    "static/js/3.e3d4f4f5.chunk.js": "/JPokedex/static/js/3.e3d4f4f5.chunk.js",
+    "static/js/3.e3d4f4f5.chunk.js.map": "/JPokedex/static/js/3.e3d4f4f5.chunk.js.map",
+    "index.html": "/JPokedex/index.html",
+    "static/css/2.eee1a7f4.chunk.css.map": "/JPokedex/static/css/2.eee1a7f4.chunk.css.map",
+    "static/css/main.fbe7a14a.chunk.css.map": "/JPokedex/static/css/main.fbe7a14a.chunk.css.map",
+    "static/js/2.4560a1af.chunk.js.LICENSE.txt": "/JPokedex/static/js/2.4560a1af.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/JPokedex/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95b475c6.js",
+    "static/css/2.eee1a7f4.chunk.css",
+    "static/js/2.4560a1af.chunk.js",
+    "static/css/main.fbe7a14a.chunk.css",
+    "static/js/main.064b832a.chunk.js"
+  ]
+}

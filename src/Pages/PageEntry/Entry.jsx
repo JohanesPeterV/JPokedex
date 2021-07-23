@@ -1,6 +1,4 @@
-import { Button, Container, Menu, Segment, Visibility } from "semantic-ui-react";
 import { useEffect, useState } from "react";
-import { css, cx } from '@emotion/css'
 import Mobile from "./Mobile";
 import Desktop from "./Desktop";
 

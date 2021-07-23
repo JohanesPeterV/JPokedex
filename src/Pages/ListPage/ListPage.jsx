@@ -1,9 +1,9 @@
-import React,{useState, useEffect} from "react";
+import React,{useState} from "react";
 
 import {gql, useQuery} from '@apollo/client';
 import PokemonCard from "../../Components/PokemonCard/PokemonCard";
 import './ListPage.scss';
-import { Card,  Grid,  Header,  Label,  Pagination,  Placeholder, Search, Segment } from "semantic-ui-react";
+import { Card, Pagination} from "semantic-ui-react";
 import 'semantic-ui-css/semantic.min.css';
 import { css } from "@emotion/css";
 function ListPage(){

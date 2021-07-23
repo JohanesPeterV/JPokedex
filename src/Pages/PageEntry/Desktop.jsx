@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Route, Switch } from "react-router";
-import { Button, Container, Menu, Segment, Visibility } from "semantic-ui-react";
+import {  Container, Menu, Segment, Visibility } from "semantic-ui-react";
 import FavPage from "../FavPage/FavPage";
 import ListPage from "../ListPage/ListPage";
 import PokemonDetail from "../PokemonDetailPage/PokemonDetail";

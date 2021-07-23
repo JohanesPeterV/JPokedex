@@ -1,8 +1,6 @@
-import { css, cx } from '@emotion/css'
 import { useState } from "react";
-import { Redirect } from 'react-router';
-import { Link, Route, Router, Switch } from 'react-router-dom';
-import { Button, Container, Icon, Menu, Segment, Sidebar } from "semantic-ui-react";
+import { Route, Switch } from 'react-router-dom';
+import {  Container, Icon, Menu, Segment, Sidebar } from "semantic-ui-react";
 import FavPage from '../FavPage/FavPage';
 import ListPage from '../ListPage/ListPage';
 import PokemonDetail from '../PokemonDetailPage/PokemonDetail';

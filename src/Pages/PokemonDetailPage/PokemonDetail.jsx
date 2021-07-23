@@ -1,10 +1,9 @@
 
 import { gql, useQuery } from '@apollo/client';
 import { css } from '@emotion/css';
-import { divide } from 'lodash-es';
-import { useEffect, useState } from 'react';
+import {  useState } from 'react';
 import { useParams } from 'react-router';
-import { Button, Container, Divider, Dropdown, Grid, Header, Icon, Image, List, Menu, Segment, Table } from 'semantic-ui-react';
+import {  Header,  Table } from 'semantic-ui-react';
 import './PokemonDetail.scss';
 
 function PokemonDetail(){

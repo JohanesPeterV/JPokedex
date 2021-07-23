@@ -1,0 +1,52 @@
+
+
+
+.image-container{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    img{
+        width: 100%;
+        max-width: 300px;
+        height: auto;
+    }
+
+}
+.tables-container {
+    display:flex;
+    flex-direction:column;
+    align-items:flex-start;
+    justify-content:flex-start;
+    width: calc(min(1200px,90vw));
+    min-width: calc(min(1200px,90vw));
+    height: 100%;  
+}
+@media only screen and (max-width: 769px) {
+   .tables-container {
+      flex-direction:column;
+      width: calc(min(600px,90vw));
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

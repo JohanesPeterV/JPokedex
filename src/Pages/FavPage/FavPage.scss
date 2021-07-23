@@ -1,0 +1,24 @@
+.card-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#list-page{
+    background-color: var(--bg-primary);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content:center;
+
+}
+#pagination-nav{
+    padding: 4% 0;
+}
+#list-content{  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
